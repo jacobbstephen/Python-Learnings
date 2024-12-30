@@ -1,0 +1,13 @@
+has a module named os makes it easy to work with files and directories
+os.getcwd(): curr dir
+chdir() : helps to change the vurrent working dir
+
+with open ("test.txt","w") as f:
+    f.write("This is a testfile") 
+    no try and finally
+listdir() : list all the files and sub dir
+mkdir: new dir
+
+
+rename
+remove

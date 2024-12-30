@@ -1,0 +1,4 @@
+a structure is iterable if it has iterrable method
+python iterrators: it is an object that can return data one at a time while iterating over it
+for a object to be an iterator it must have iter annd next
+ 

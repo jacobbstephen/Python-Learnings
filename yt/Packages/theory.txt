@@ -1,0 +1,5 @@
+A package is a Directory containing multiple modules and other sub packages
+help us to organize related modules together
+__init__.py: tell python this is an python package
+
+pip is package manager which help us to import all packages which are not in standard library
